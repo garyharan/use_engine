@@ -9,7 +9,7 @@ gem 'sqlite3'
 
 gem 'json'
 
-gem 'git_version', :path => "../git_version"
+gem 'git_version'
 
 # Gems used only for assets and not required
 # in production environments by default.
